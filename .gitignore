@@ -1,0 +1,9 @@
+/myDocs
+
+.env
+*/.env
+
+.venv
+*/.venv
+
+*.pyc
